@@ -3,3 +3,8 @@
 ```
 pip install -r requirements.txt --upgrade
 ```
+# How to run the project
+- Run the project by executing the following command in your terminal:
+```
+python run.py
+```
